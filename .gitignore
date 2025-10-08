@@ -1,0 +1,42 @@
+# Python
+
+**pycache**/
+_.py[cod]
+_.pyo
+_.pyd
+_.db
+_.sqlite3
+_.egg-info/
+\*.log
+venv/
+.env
+
+# VSCode
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Node / Frontend
+
+node_modules/
+dist/
+build/
+\*.local
+
+# Environment / Cache
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.cache/
+\*.pid
+
+# Misc
+
+coverage/
