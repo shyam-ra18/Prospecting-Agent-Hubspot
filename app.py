@@ -27,17 +27,17 @@ app = FastAPI(title="Advanced Prospecting Agent")
 # Initialize
 origins = [
     "http://localhost",
-    "http://localhost:3000",  # Default for React CRA (good to include)
-    "http://localhost:5173",  # Default for React Vite (Crucial for your Vite frontend)
-    "http://127.0.0.1:5173",  # Sometimes 127.0.0.1 is used instead of localhost
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
 ]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,          # List of allowed origins
-    allow_credentials=True,         # Allow cookies/authorization headers
-    allow_methods=["*"],            # Allow all methods (GET, POST, etc.)
-    allow_headers=["*"],            # Allow all headers
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 db_client = MongoClient(MONGO_URI)
