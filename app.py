@@ -48,6 +48,8 @@ origins = [
     "http://localhost:3000",
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://prospecting-agent-hubspot.onrender.com",
+    "https://prospecting-agent-hubspot.vercel.app"
 ]
 
 app.add_middleware(
