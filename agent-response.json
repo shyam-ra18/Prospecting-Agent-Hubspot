@@ -1,0 +1,907 @@
+{
+    "_id": "59c6f7bb-55f3-46ed-9cd1-669cbfd11dca",
+    "domain": "coursera.org",
+    "ticker": "COUR",
+    "company_name": "Coursera",
+    "industry": "E-Learning/EdTech",
+    "employee_count": {
+        "$numberInt": "0"
+    },
+    "contacts": [
+        {
+            "name": "Wilson Tan",
+            "title": "Regional Account Director",
+            "email": "wtan@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Angus Gray",
+            "title": "Senior Director of Cybersecurity Partnerships",
+            "email": "agray@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Nikolaz Foucaud",
+            "title": "Managing Director",
+            "email": "nfoucaud@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Marcelo Modica",
+            "title": "Chief Human Resources Officer",
+            "email": "mmodica@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Tim Hannan",
+            "title": "Chief Marketing Officer",
+            "email": "thannan@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Malav Acharya",
+            "title": "Director of University Partnerships",
+            "email": "macharya@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Catie Starr",
+            "title": "Vice President",
+            "email": "cstarr@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Akanksha Kapoor",
+            "title": "Director of Government Partnerships",
+            "email": "akapoor@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Arushee Aggarwal",
+            "title": "Director of Business Development",
+            "email": "aaggarwal@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        },
+        {
+            "name": "Michelle Najem",
+            "title": "Client Executive",
+            "email": "mnajem@coursera.org",
+            "linkedin": "",
+            "apollo_id": null
+        }
+    ],
+    "articles": [
+        {
+            "title": "Three Questions for Coursera’s New CEO, Greg Hart",
+            "snippet": "The future of university/company partnerships. For many institutions of higher education (including the one I work for), Coursera is an important online...",
+            "source": "Inside Higher Ed",
+            "date": "May 20, 2025",
+            "link": "https://www.insidehighered.com/opinion/columns/learning-innovation/2025/05/20/three-questions-courseras-new-ceo-greg-hart"
+        },
+        {
+            "title": "Coursera Appoints Grant Parsamyan as Chief Data Officer",
+            "snippet": "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Coursera, Inc. (NYSE: COUR), a leading global online learning platform, today announced the appointment of Grant...",
+            "source": "Business Wire",
+            "date": "Jul 21, 2025",
+            "link": "https://www.businesswire.com/news/home/20250721098855/en/Coursera-Appoints-Grant-Parsamyan-as-Chief-Data-Officer"
+        },
+        {
+            "title": "Santander partners with Coursera to provide free access to training courses for 10,000 people for one year",
+            "snippet": "Banco Santander has partnered with the global online learning platform Coursera to offer 10000 scholarships for access to all the platform's training...",
+            "source": "Banco Santander",
+            "date": "Jan 22, 2025",
+            "link": "https://www.santander.com/en/press-room/press-releases/2025/01/santander-partners-with-coursera-to-provide-free-access-to-training-courses-for-10000-people-for-one-year"
+        },
+        {
+            "title": "Coursera co-founder Daphne Koller on receiving MacArthur genius grant: ‘It wasn’t me’",
+            "snippet": "In today's CEO Daily: Diane Brady talks to Coursera founder Daphne Koller. The big story: The Apple CEO succession plan just got complicated. The markets:...",
+            "source": "Fortune",
+            "date": "Jul 9, 2025",
+            "link": "https://fortune.com/2025/07/09/coursera-daphne-koller-macarthur-genius-grant/"
+        },
+        {
+            "title": "Coursera offers Google, Meta, and Microsoft-led classes for your future career",
+            "snippet": "Coursera is a top-rated hub for online learning. We've broken down how much Coursera costs and some of the best courses available.",
+            "source": "Business Insider",
+            "date": "Jun 5, 2025",
+            "link": "https://www.businessinsider.com/guides/learning/coursera-pricing-and-best-courses"
+        },
+        {
+            "title": "Microsoft, Xbox, Others Team Up With Coursera On 10 New Certificates",
+            "snippet": "Coursera announced a substantial expansion of its professional certificate content today, including 10 new entry-level certificates with current and...",
+            "source": "Forbes",
+            "date": "Nov 1, 2024",
+            "link": "https://www.forbes.com/sites/michaeltnietzel/2024/11/01/microsoft-xbox-others-team-up-with-coursera-to-offer-10-new-certificates/"
+        },
+        {
+            "title": "Coursera Announces Skill Tracks: Tailored, Data-backed Learning Solution to Accelerate Critical Skills Development Across Functional Teams",
+            "snippet": "MOUNTAIN VIEW, Calif., September 09, 2025--Coursera, Inc. (NYSE: COUR), a leading global online learning platform, today announced the launch of Skill...",
+            "source": "Yahoo Finance",
+            "date": "1 month ago",
+            "link": "https://finance.yahoo.com/news/coursera-announces-skill-tracks-tailored-160000185.html"
+        },
+        {
+            "title": "Coursera Founder Andrew Ng’s New Venture Brings A.I. to K–12 Classrooms",
+            "snippet": "Backed by Andrew Ng, Kira Learning integrates A.I. agents into K–12 classrooms to support teachers, students and school administrators.",
+            "source": "Observer",
+            "date": "Apr 23, 2025",
+            "link": "https://observer.com/2025/04/andrew-ng-ai-education-startup/"
+        },
+        {
+            "title": "Coursera: Revenue Reacceleration Underway With More To Come (NYSE:COUR)",
+            "snippet": "Coursera is poised for growth with strong demand, AI-driven expansion, and a shift to higher-margin segments despite pricing concerns.",
+            "source": "Seeking Alpha",
+            "date": "1 month ago",
+            "link": "https://seekingalpha.com/article/4822734-coursera-revenue-reacceleration-underway-with-more-to-come"
+        },
+        {
+            "title": "OpenAI launches in-chat apps and SDK as Coursera joins first wave of ChatGPT integrations",
+            "snippet": "OpenAI has launched in chat apps and a new Apps SDK for ChatGPT with Coursera among the first integrations. Featured on ETIH this EdTech news explains how...",
+            "source": "EdTech Innovation Hub",
+            "date": "1 week ago",
+            "link": "https://www.edtechinnovationhub.com/news/openai-launches-in-chat-apps-and-sdk-as-coursera-joins-first-wave-of-chatgpt-integrations"
+        },
+        {
+            "title": "Coursera Reports Second Quarter 2025 Financial Results",
+            "snippet": "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Coursera, Inc. (NYSE: COUR), a leading global online learning platform, today announced financial results for its...",
+            "source": "Business Wire",
+            "date": "Jul 24, 2025",
+            "link": "https://www.businesswire.com/news/home/20250724001650/en/Coursera-Reports-Second-Quarter-2025-Financial-Results"
+        },
+        {
+            "title": "Coursera Appoints Anthony Salcito as General Manager, Enterprise",
+            "snippet": "MOUNTAIN VIEW, Calif., October 06, 2025--Coursera, Inc. (NYSE: COUR), a leading global online learning platform, today announced the appointment of Anthony...",
+            "source": "Yahoo Finance",
+            "date": "1 week ago",
+            "link": "https://finance.yahoo.com/news/coursera-appoints-anthony-salcito-general-130500828.html"
+        },
+        {
+            "title": "Coursera: Great Momentum With Content Expansion",
+            "snippet": "Coursera's strong Q1, scalable model, and low valuation support long-term upside despite retention softness and macro headwinds. Learn why COUR stock is a...",
+            "source": "Seeking Alpha",
+            "date": "Apr 26, 2025",
+            "link": "https://seekingalpha.com/article/4778466-coursera-great-momentum-with-content-expansion"
+        },
+        {
+            "title": "Coursera delivers ten percent Q2 2025 revenue growth and lifts 2025 forecast",
+            "snippet": "Coursera has reported second quarter 2025 financial results, posting revenue of $187 million, a 10% increase compared to the same period last year.",
+            "source": "EdTech Innovation Hub",
+            "date": "Jul 25, 2025",
+            "link": "https://www.edtechinnovationhub.com/news/coursera-delivers-ten-percent-q2-2025-revenue-growth-and-lifts-2025-forecast"
+        },
+        {
+            "title": "Coursera Reports First Quarter 2025 Financial Results",
+            "snippet": "Coursera, Inc. (NYSE: COUR) today announced financial results for its first quarter ended March 31, 2025.",
+            "source": "Business Wire",
+            "date": "Apr 24, 2025",
+            "link": "https://www.businesswire.com/news/home/20250424552824/en/Coursera-Reports-First-Quarter-2025-Financial-Results"
+        },
+        {
+            "title": "Coursera Partners with OpenAI to Bring Learning Capabilities into the First Generation of Apps in ChatGPT",
+            "snippet": "MOUNTAIN VIEW, Calif., October 06, 2025--Coursera (NYSE: COUR), a leading global online learning platform, today announced it is one of OpenAI's first...",
+            "source": "Yahoo Finance",
+            "date": "1 week ago",
+            "link": "https://finance.yahoo.com/news/coursera-partners-openai-bring-learning-182300560.html"
+        },
+        {
+            "title": "Coursera Reports Fourth Quarter and Full Year 2024 Financial Results",
+            "snippet": "Coursera, Inc. (NYSE: COUR) today announced financial results for its fourth quarter and full year ended December 31, 2024.",
+            "source": "Business Wire",
+            "date": "Jan 30, 2025",
+            "link": "https://www.businesswire.com/news/home/20250130171606/en/Coursera-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results"
+        },
+        {
+            "title": "Institutional investors control 70% of Coursera, Inc. (NYSE:COUR) and were rewarded last week after stock increased 3.8%",
+            "snippet": "Key Insights Institutions' substantial holdings in Coursera implies that they have significant influence over the...",
+            "source": "Yahoo Finance",
+            "date": "May 29, 2025",
+            "link": "https://finance.yahoo.com/news/institutional-investors-control-70-coursera-114522463.html"
+        },
+        {
+            "title": "Coursera to Announce Second Quarter 2025 Financial Results",
+            "snippet": "Coursera, Inc. (NYSE: COUR), a leading global online learning platform, today announced it will release its financial results for the second quarter ended June...",
+            "source": "Business Wire",
+            "date": "Jul 10, 2025",
+            "link": "https://www.businesswire.com/news/home/20250710867693/en/Coursera-to-Announce-Second-Quarter-2025-Financial-Results"
+        },
+        {
+            "title": "Coursera to Announce First Quarter 2025 Financial Results",
+            "snippet": "Coursera, Inc. (NYSE: COUR) today announced it will release its financial results for the first quarter ended March 31, 2025 after the US stock market closes.",
+            "source": "Business Wire",
+            "date": "Apr 10, 2025",
+            "link": "https://www.businesswire.com/news/home/20250410613472/en/Coursera-to-Announce-First-Quarter-2025-Financial-Results"
+        },
+        {
+            "title": "Has Stride Found the Formula for a Sustainable School Choice?",
+            "url": "https://www.zacks.com/stock/news/2769402/has-stride-found-the-formula-for-a-sustainable-school-choice",
+            "source": "Zacks Commentary",
+            "time_published": "20251015T152500",
+            "summary": "Can LRN's AI-powered tutoring and 20% enrollment surge make it the model for sustainable online education growth?",
+            "sentiment_score": "0.29577",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "'Absolutely Don't Do This': Perplexity CEO Aravind Srinivas Warns Against Misuse Of AI Tools - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/education/25/10/48164089/absolutely-dont-do-this-perplexity-ceo-aravind-srinivas-warns-against-misuse-of-ai-tools",
+            "source": "Benzinga",
+            "time_published": "20251011T082909",
+            "summary": "Perplexity AI is back in the spotlight. This time, the startup's 31-year-old CEO, Aravind Srinivas, warned against misusing AI tools. An X user posted a viral video this week, showing Comet, Perplexity's browser, completing an entire Coursera assignment in seconds.",
+            "sentiment_score": "0.0",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Duolingo: AI and Data Fueling Scalable Growth and a Lasting Edge",
+            "url": "https://www.zacks.com/stock/news/2766586/duolingo-ai-and-data-fueling-scalable-growth-and-a-lasting-edge",
+            "source": "Zacks Commentary",
+            "time_published": "20251010T173400",
+            "summary": "DUOL's AI-powered content creation and data-driven personalization are fueling rapid expansion, stronger margins, and lasting competitive strength.",
+            "sentiment_score": "0.334722",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Can Stride Sustain Double-Digit EPS Growth as Investments Rise?",
+            "url": "https://www.zacks.com/stock/news/2766137/can-stride-sustain-double-digit-eps-growth-as-investments-rise",
+            "source": "Zacks Commentary",
+            "time_published": "20251010T121400",
+            "summary": "LRN's push into AI-driven learning, tutoring and career initiatives can determine if its double-digit EPS growth endures.",
+            "sentiment_score": "0.318596",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Stride Stock is Trading at a Premium to the Industry: Buy or Hold?",
+            "url": "https://www.zacks.com/stock/news/2765691/stride-stock-is-trading-at-a-premium-to-the-industry-buy-or-hold",
+            "source": "Zacks Commentary",
+            "time_published": "20251009T154800",
+            "summary": "Can LRN maintain its premium valuation as AI-driven programs, rising enrollments and tutoring expansion fuel long-term growth?",
+            "sentiment_score": "0.176225",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Scrum Alliance and Coursera Bring Agile Skills to Learners Worldwide",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48049477/scrum-alliance-and-coursera-bring-agile-skills-to-learners-worldwide",
+            "source": "Benzinga",
+            "time_published": "20251006T161923",
+            "summary": "DENVER, Oct. 06, 2025 ( GLOBE NEWSWIRE ) -- Scrum Alliance®, a global leader in agile certification and education, is teaming up with Coursera, a leading online learning platform, to make agile skills more accessible than ever.",
+            "sentiment_score": "0.549279",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Contract Shifts to District Wins: Is Stride's Franchise Strengthening?",
+            "url": "https://www.zacks.com/stock/news/2760142/contract-shifts-to-district-wins-is-strides-franchise-strengthening",
+            "source": "Zacks Commentary",
+            "time_published": "20251001T133000",
+            "summary": "LRN shows resilience as new district partnerships in New Mexico offset contract loss and reinforce its digital learning franchise.",
+            "sentiment_score": "0.378324",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Stride Bets on Tutoring and AI: Will New Investments Pay Off?",
+            "url": "https://www.zacks.com/stock/news/2754104/stride-bets-on-tutoring-and-ai-will-new-investments-pay-off",
+            "source": "Zacks Commentary",
+            "time_published": "20250919T135300",
+            "summary": "Can LRN's record year and bold bets on tutoring and AI turn its digital education momentum into lasting growth?",
+            "sentiment_score": "0.242219",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Is Chegg Well-Positioned to Monetize the GenAI Education Shift?",
+            "url": "https://www.zacks.com/stock/news/2753871/is-chegg-well-positioned-to-monetize-the-genai-education-shift",
+            "source": "Zacks Commentary",
+            "time_published": "20250919T113100",
+            "summary": "Can CHGG's AI-powered study tools, cost savings and student-first model secure its edge in the GenAI education shift?",
+            "sentiment_score": "0.125913",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Duolingo: AI and Data Powering Scalable Growth and Competitive Moat",
+            "url": "https://www.zacks.com/stock/news/2753658/duolingo-ai-and-data-powering-scalable-growth-and-competitive-moat",
+            "source": "Zacks Commentary",
+            "time_published": "20250918T180800",
+            "summary": "DUOL leverages AI and vast learner data to expand its content, boost margins, and establish a durable growth advantage.",
+            "sentiment_score": "0.110404",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Silicon Valley Certification Hub Records 30% QoQ Revenue Growth as Demand for AI Certification Accelerates",
+            "url": "https://www.benzinga.com/pressreleases/25/09/g47728063/silicon-valley-certification-hub-records-30-qoq-revenue-growth-as-demand-for-ai-certification-acce",
+            "source": "Benzinga",
+            "time_published": "20250917T210431",
+            "summary": "Photo Courtesy of: Silicon Valley Certification Hub. SILICON VALLEY, Calif., Sept. 17, 2025 ( GLOBE NEWSWIRE ) -- Silicon Valley Certification Hub ( SVCH ) has announced 30% quarter-over-quarter revenue growth, marking a critical shift in how companies prepare for artificial intelligence.",
+            "sentiment_score": "0.043043",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "5 Stocks In The Spotlight From Wall Street's Most Accurate Analysts Last Week - Coursera  ( NYSE:COUR ) , Chewy  ( NYSE:CHWY ) ",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/25/09/47663245/5-stocks-in-the-spotlight-from-wall-streets-most-accurate-analysts-last-week-7",
+            "source": "Benzinga",
+            "time_published": "20250915T105652",
+            "summary": "U.S. stocks settled mixed on Friday, with the Dow Jones index falling more than 250 points during the session. All three major U.S. equity benchmarks recorded gains last week, with the S&P 500 notching its best weekly performance since August. The Dow, meanwhile, added around 1% last week.",
+            "sentiment_score": "0.203317",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "DUOL Stock Down 35% in 3 Months: Should You Buy the Dip?",
+            "url": "https://www.zacks.com/stock/news/2751027/duol-stock-down-35-in-3-months-should-you-buy-the-dip",
+            "source": "Zacks Commentary",
+            "time_published": "20250912T163100",
+            "summary": "Duolingo's AI-driven expansion, new subject rollouts, and rising analyst estimates highlight growth despite recent pressure.",
+            "sentiment_score": "0.034481",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Credo Technology and Symbotic have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://www.zacks.com/stock/news/2749413/credo-technology-and-symbotic-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "source": "Zacks Commentary",
+            "time_published": "20250910T130900",
+            "summary": "Zacks names Credo Technology Bull of the Day after triple-digit gains, while Symbotic earns Bear of the Day on weak earnings.",
+            "sentiment_score": "0.039211",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Skillsoft Reports 3% Revenue Dip in Q2",
+            "url": "https://www.fool.com/data-news/2025/09/10/skillsoft-reports-3-revenue-dip-in-q2/",
+            "source": "Motley Fool",
+            "time_published": "20250910T122631",
+            "summary": "Skillsoft ( NYSE:SKIL ) , a leading provider of enterprise digital learning and talent development solutions, released results for its fiscal 2026 second quarter on Sept. 9, 2025. The earnings update showed ongoing resilience in its core Talent Development Solutions ( TDS ) business and robust ...",
+            "sentiment_score": "0.094857",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Can Stride Maintain the 20% Enrollment Growth Trend Into FY26?",
+            "url": "https://www.zacks.com/stock/news/2748918/can-stride-maintain-the-20-enrollment-growth-trend-into-fy26",
+            "source": "Zacks Commentary",
+            "time_published": "20250909T145900",
+            "summary": "With 20% enrollment growth in FY25 and strong demand trends, can LRN sustain momentum into FY26 and beyond?",
+            "sentiment_score": "0.304484",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Back to school: Teachers adopt new methods to tackle AI",
+            "url": "https://cointelegraph.com/news/back-school-teachers-methods-ai",
+            "source": "Cointelegraph",
+            "time_published": "20250908T134719",
+            "summary": "Professors and teachers are meeting the challenge of AI in the classroom by changing their methods.",
+            "sentiment_score": "0.0",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Chegg Stock up 14% in 3 Months: Is It the Right Time to Buy or Wait?",
+            "url": "https://www.zacks.com/stock/news/2746227/chegg-stock-up-14-in-3-months-is-it-the-right-time-to-buy-or-wait",
+            "source": "Zacks Commentary",
+            "time_published": "20250902T154600",
+            "summary": "Can CHGG's AI revamp, Busuu growth and sharp cost cuts keep fueling its 14% stock growth despite losses?",
+            "sentiment_score": "0.204229",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Chegg Turns to AI for Efficiency: Enough to Offset Subscriber Decline?",
+            "url": "https://www.zacks.com/stock/news/2745769/chegg-turns-to-ai-for-efficiency-enough-to-offset-subscriber-decline",
+            "source": "Zacks Commentary",
+            "time_published": "20250901T165100",
+            "summary": "Can CHGG's AI-powered tools and cost cuts offset steep subscriber losses and mounting edtech competition?",
+            "sentiment_score": "0.259195",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Creator Economy Market to Skyrocket from $212.3B in 2024 to $894.8B by 2032, Fueled by Short-Form Video and AI Innovation | Report by DataM Intelligence",
+            "url": "https://www.benzinga.com/pressreleases/25/08/n47419685/creator-economy-market-to-skyrocket-from-212-3b-in-2024-to-894-8b-by-2032-fueled-by-short-form-vid",
+            "source": "Benzinga",
+            "time_published": "20250829T163100",
+            "summary": "HYDERABAD, India, Aug. 29, 2025 /PRNewswire/ -- The Creator Economy Market Size valued at US$ 212.32 billion in 2024, is projected to reach US$ 894.84 billion by 2032, expanding at a robust CAGR of 19.70% from 2025 to 2032.",
+            "sentiment_score": "0.133153",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Co-Diagnostics CODX Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/08/14/co-diagnostics-codx-earnings-call-transcript/",
+            "source": "Motley Fool",
+            "time_published": "20250814T211153",
+            "summary": "Image source: The Motley Fool.Thursday, August 14, 2025 at 4:30 p.m. ETChief Executive Officer - Dwight EganContinue reading ...",
+            "sentiment_score": "0.049858",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Coursera  ( COUR )  Q2 2025 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/08/05/coursera-cour-q2-2025-earnings-call-transcript/",
+            "source": "Motley Fool",
+            "time_published": "20250805T183806",
+            "summary": "Image source: The Motley Fool.Thursday, July 24, 2025, at 9 p.m. ETNeed a quote from a Motley Fool analyst? Email pr@fool.comContinue reading ...",
+            "sentiment_score": "0.217645",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Do Options Traders Know Something About Coursera Stock We Don't?",
+            "url": "https://www.zacks.com/stock/news/2644171/do-options-traders-know-something-about-coursera-stock-we-dont",
+            "source": "Zacks Commentary",
+            "time_published": "20250731T132000",
+            "summary": "Investors need to pay close attention to COUR stock based on the movements in the options market lately.",
+            "sentiment_score": "0.181889",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Coursera, Inc.  ( COUR )  Hits Fresh High: Is There Still Room to Run?",
+            "url": "https://www.zacks.com/stock/news/2628551/coursera-inc-cour-hits-fresh-high-is-there-still-room-to-run",
+            "source": "Zacks Commentary",
+            "time_published": "20250728T131501",
+            "summary": "Coursera (COUR) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+            "sentiment_score": "0.500835",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts - Coursera  ( NYSE:COUR ) , Amphenol  ( NYSE:APH ) ",
+            "url": "https://www.benzinga.com/news/25/07/46655757/5-stock-picks-last-week-from-wall-streets-most-accurate-analysts-9",
+            "source": "Benzinga",
+            "time_published": "20250728T111605",
+            "summary": "U.S. stocks settled higher on Friday, with the S&P 500 notching its 14th record close of the year as optimism over corporate earnings and progress on global trade talks provided support for risk assets. All three major indices closed the week higher, with the 30-stock Dow gaining around 1.3% and ...",
+            "sentiment_score": "0.136058",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Gold Falls Over 1%; Phillips 66 Posts Upbeat Earnings - Coursera  ( NYSE:COUR ) , Absci  ( NASDAQ:ABSI ) ",
+            "url": "https://www.benzinga.com/markets/market-summary/25/07/46639031/gold-falls-over-1-phillips-66-posts-upbeat-earnings",
+            "source": "Benzinga",
+            "time_published": "20250725T171049",
+            "summary": "U.S. stocks traded higher midway through trading, with the Dow Jones index gaining around 0.2% on Friday. The Dow traded up 0.19% to 44,779.21 while the NASDAQ rose 0.37% to 21,135.49. The S&P 500 also rose, gaining, 0.32% to 6,383.53. Financial shares jumped by 0.5% on Friday.",
+            "sentiment_score": "0.429383",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Coursera's Upbeat Outlook Drives Stock Higher - Coursera  ( NYSE:COUR ) ",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/upgrades/25/07/46637620/courseras-upbeat-outlook-drives-stock-higher",
+            "source": "Benzinga",
+            "time_published": "20250725T163334",
+            "summary": "Coursera's Q2 revenue rose 10% year-over-year to $187.1M, beating estimates on strong Consumer and Enterprise performance. Bank of America Securities analyst Nafeesa Gupta upgraded Coursera from Underperform to Neutral, raising the price forecast from $7 to $12.",
+            "sentiment_score": "0.470072",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Worried About Job Insecurity? Suze Orman Recommends Making This Smart Career Move Right Now",
+            "url": "https://www.benzinga.com/news/topics/25/07/46637541/worried-about-job-insecurity-suze-orman-recommends-making-this-smart-career-move-right-now",
+            "source": "Benzinga",
+            "time_published": "20250725T163108",
+            "summary": "If you're starting to worry about your job security, you're in good company. Suze Orman says even people who have been successful in their careers may start to question how secure their future really is - especially as they get older.",
+            "sentiment_score": "0.168882",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "K-12 Education Is Changing: Can Stride Lead the Next 25 Years?",
+            "url": "https://www.zacks.com/stock/news/2617881/k-12-education-is-changing-can-stride-lead-the-next-25-years",
+            "source": "Zacks Commentary",
+            "time_published": "20250725T155200",
+            "summary": "LRN posts double-digit growth in revenue and enrollment as it eyes leadership in a shifting K-12 education landscape.",
+            "sentiment_score": "0.201252",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Boston Beer Posts Better-Than-Expected Earnings, Joins Scholastic, Deckers Outdoor, Saia And Other Big Stocks Moving Higher On Friday - Aon  ( NYSE:AON ) , Bel Fuse  ( NASDAQ:BELFA ) ",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/07/46632904/boston-beer-posts-better-than-expected-earnings-joins-scholastic-deckers-outdoor-saia-and-ot",
+            "source": "Benzinga",
+            "time_published": "20250725T143145",
+            "summary": "U.S. stocks were higher, with the Dow Jones index gaining around 50 points on Friday. Shares of The Boston Beer Company, Inc. SAM rose sharply during Friday's session after the company reported better-than-expected second-quarter EPS results and issued FY25 EPS guidance with its midpoint above ...",
+            "sentiment_score": "0.369666",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Coursera Analysts Boost Their Forecasts After Upbeat Q2 Results - Coursera  ( NYSE:COUR ) ",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/25/07/46629836/coursera-analysts-boost-their-forecasts-after-upbeat-q2-results",
+            "source": "Benzinga",
+            "time_published": "20250725T132358",
+            "summary": "Coursera, Inc. COUR posted better-than-expected second-quarter results after Thursday's closing bell. Coursera reported quarterly earnings of 12 cents per share, which beat the analyst consensus estimate of nine cents. Quarterly revenue clocked in at $187.1 million, which beat the Street estimate ...",
+            "sentiment_score": "0.444846",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Coursera Q2 Revenue Jumps 10 Percent",
+            "url": "https://www.fool.com/data-news/2025/07/25/coursera-q2-revenue-jumps-10-percent/",
+            "source": "Motley Fool",
+            "time_published": "20250725T130354",
+            "summary": "Coursera ( NYSE:COUR ) , the online education platform known for its partnerships with leading universities and companies, released its second quarter results for fiscal 2025 on July 24, 2025. The company exceeded analyst expectations with GAAP revenue of $187.1 million versus the $180.52 million ...",
+            "sentiment_score": "0.475838",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Why Deckers Outdoor Shares Are Trading Higher By 12%; Here Are 20 Stocks Moving Premarket - Absci  ( NASDAQ:ABSI ) , AST SpaceMobile  ( NASDAQ:ASTS ) ",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/07/46625424/why-deckers-outdoor-shares-are-trading-higher-by-12-here-are-20-stocks-moving-premarket",
+            "source": "Benzinga",
+            "time_published": "20250725T093632",
+            "summary": "Shares of Deckers Outdoor Corporation DECK rose sharply in pre-market trading following better-than-expected first-quarter financial results. Deckers Outdoor reported quarterly earnings of 93 cents per share, which beat the analyst consensus estimate of 72 cents.",
+            "sentiment_score": "0.235631",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Coursera  ( COUR )  Q2 Earnings and Revenues Beat Estimates",
+            "url": "https://www.zacks.com/stock/news/2614269/coursera-cour-q2-earnings-and-revenues-beat-estimates",
+            "source": "Zacks Commentary",
+            "time_published": "20250724T214001",
+            "summary": "Coursera (COUR) delivered earnings and revenue surprises of +33.33% and +3.38%, respectively, for the quarter ended June 2025. Do the numbers hold clues to what lies ahead for the stock?",
+            "sentiment_score": "0.250046",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Coursera Stock Rockets 20% Higher After Q2 Earnings Report - Coursera  ( NYSE:COUR ) ",
+            "url": "https://www.benzinga.com/markets/earnings/25/07/46618339/coursera-stock-rockets-20-higher-after-q2-earnings-report-heres-why",
+            "source": "Benzinga",
+            "time_published": "20250724T205918",
+            "summary": "Coursera reports earnings of 12 cents per share, which beat the analyst consensus estimate of 9 cents. Quarterly revenue clocks in at $187.1 million, which beat the Street estimate of $180.48 million. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On Coursera, Inc.",
+            "sentiment_score": "0.439744",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Is GEN DIGITAL INC  ( GEN )  Outperforming Other Business Services Stocks This Year?",
+            "url": "https://www.zacks.com/stock/news/2599564/is-gen-digital-inc-gen-outperforming-other-business-services-stocks-this-year",
+            "source": "Zacks Commentary",
+            "time_published": "20250721T134004",
+            "summary": "Here is how Gen Digital (GEN) and Coursera (COUR) have performed compared to their sector so far this year.",
+            "sentiment_score": "0.285836",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "'Throw Yourself In With Zealous Passion,' Says Etsy CEO Josh Silverman, Who Went From Theater Major To Running A $5.3 Billion Company - Etsy  ( NASDAQ:ETSY ) , American Express  ( NYSE:AXP ) ",
+            "url": "https://www.benzinga.com/news/topics/25/07/46503255/throw-yourself-in-with-zealous-passion-says-etsy-ceo-josh-silverman-who-went-from-theater-major-to-ru",
+            "source": "Benzinga",
+            "time_published": "20250718T193140",
+            "summary": "\"Throw yourself in with zealous passion,\" Etsy Inc. ETSY CEO Josh Silverman told Pace University graduates during a commencement speech in May 19. Silverman urged graduates to find work they enjoy. He said over-delivering on every task sparks career-launching opportunities for today's most ...",
+            "sentiment_score": "0.181648",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Over 2.7 Million People Benefited by Education Startups Backed by Tec: IFE",
+            "url": "https://www.benzinga.com/pressreleases/25/07/g46299381/over-2-7-million-people-benefited-by-education-startups-backed-by-tec-ife",
+            "source": "Benzinga",
+            "time_published": "20250708T150931",
+            "summary": "The Institute for the Future of Education ( IFE ) presented key milestones across its main focus areas: human skills, digital inclusion, and technology with global impact. Partnerships with UNESCO and 43 universities are strengthening efforts toward more inclusive, human-centered education.",
+            "sentiment_score": "0.046881",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Why Genius Group Is Aggressively Stockpiling Bitcoin - Genius Group  ( AMEX:GNS ) ",
+            "url": "https://www.benzinga.com/crypto/25/07/46221685/why-genius-group-is-aggressively-stockpiling-bitcoin",
+            "source": "Benzinga",
+            "time_published": "20250702T141137",
+            "summary": "Genius Group increased its Bitcoin reserves by 20% after a court stay lifted a prior acquisition ban The company plans to grow its BTC holdings to 1,000 within six months as part of a long-term strategy. Market-moving news hits Benzinga Pro first-get a 30-minute edge and save 60% this 4th of July.",
+            "sentiment_score": "0.541408",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "44 Public Companies Make Time's Most Influential List: Coinbase, UFC, Nintendo, Netflix And More Stocks Investors Can Buy - Abbott Laboratories  ( NYSE:ABT ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/06/46144750/44-public-companies-make-times-most-influential-list-coinbase-ufc-nintendo-netflix-and-m",
+            "source": "Benzinga",
+            "time_published": "20250627T153958",
+            "summary": "Time Magazine put out its annual list of the most influential companies. A look at the publicly traded companies on the list. Geopolitical tensions, Fed uncertainty, and fast-moving headlines are driving July volatility. See how Chris Capre is trading it-live Wednesday, July 2 at 6 PM ET.",
+            "sentiment_score": "0.053737",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "This Hamilton Insurance Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Thursday - Coursera  ( NYSE:COUR ) , Chewy  ( NYSE:CHWY ) ",
+            "url": "https://www.benzinga.com/analyst-stock-ratings/downgrades/25/06/45801681/this-hamilton-insurance-analyst-is-no-longer-bullish-here-are-top-5-downgrades-f",
+            "source": "Benzinga",
+            "time_published": "20250605T192936",
+            "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades, downgrades and initiations, please see our analyst ratings page. Jefferies analyst Alex Wright downgraded the rating for MercadoLibre, Inc.",
+            "sentiment_score": "-0.020538",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Fast Wealth Under Review: The Get Dumb Money Works System Reviews Reveal Shocking Truth",
+            "url": "https://www.benzinga.com/pressreleases/25/05/g45480909/fast-wealth-under-review-the-get-dumb-money-works-system-reviews-reveal-shocking-truth",
+            "source": "Benzinga",
+            "time_published": "20250517T020915",
+            "summary": "How the Fast Wealth system and the Get Dumb Money 30-second phone ritual are marketed to generate passive income A breakdown of what's actually included inside the Fast Wealth program Whether the Get Dumb Money Works System is a legitimate path to fast wealth or just another marketing gimmick",
+            "sentiment_score": "0.0",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "I flew to Omaha to cover Warren Buffett's annual meeting. I didn't know I'd witness history being made.",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-shareholder-meeting-omaha-breaking-news-reporting-retirement-2025-5",
+            "source": "Business Insider",
+            "time_published": "20250510T103458",
+            "summary": "I flew from London to Warren Buffett's hometown of Omaha to cover Berkshire Hathaway's annual shareholder meeting. I wasn't expecting the biggest business story in the world to break while I was there. Buffett's revelation that he plans to resign as Berkshire's CEO at the end of this year was the ...",
+            "sentiment_score": "0.049544",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "Coursera AI Strategy Wins Points But Market Jitters Linger - Coursera  ( NYSE:COUR ) ",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/04/45019527/coursera-ai-driven-strategy-wins-analyst-nod-eyes-on-tools-like-coach-course-builder",
+            "source": "Benzinga",
+            "time_published": "20250425T185832",
+            "summary": "Coursera's Q1 revenue rose 6% year-over-year to $179.3 million. JPMorgan raised Coursera's price target to $8 amid AI strategy optimism. Today's manic market swings are creating the perfect setup for Matt's next volatility trade. Get his next trade alert for free, right here.",
+            "sentiment_score": "0.325713",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Crude Oil Edges Higher; Phillips 66 Posts Wider-Than-Expected Loss - Coursera  ( NYSE:COUR ) , Coeptis Therapeutics  ( NASDAQ:COEP ) ",
+            "url": "https://www.benzinga.com/markets/commodities/25/04/45015866/crude-oil-edges-higher-phillips-66-posts-wider-than-expected-loss",
+            "source": "Benzinga",
+            "time_published": "20250425T170333",
+            "summary": "U.S. stocks traded mixed midway through trading, with the Nasdaq Composite gaining around 1% on Friday. The Dow traded down 0.17% to 40,024.00 while the NASDAQ rose 0.96% to 17,330.36. The S&P 500 also rose, gaining, 0.45% to 5,509.57. Communication services shares jumped by 0.9% on Friday.",
+            "sentiment_score": "0.54386",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "VeriSign Posts Better-Than-Expected Results, Joins Charter Communications, Sensient Technologies, Comfort Systems And Other Big Stocks Moving Higher On Friday - BigBear.ai Hldgs  ( NYSE:BBAI ) , Cantor Equity Partners  ( NASDAQ:CEP ) ",
+            "url": "https://www.benzinga.com/25/04/45011341/verisign-posts-better-than-expected-results-joins-charter-communications-sensient-technologies-comfort-systems-an",
+            "source": "Benzinga",
+            "time_published": "20250425T145447",
+            "summary": "U.S. stocks were mixed, with the Dow Jones index falling around 200 points on Friday. Shares of VeriSign, Inc. VRSN rose sharply during Friday's session after the company reported better-than-expected first-quarter financial results and raised its FY25 sales guidance above estimates.",
+            "sentiment_score": "0.472951",
+            "sentiment_label": "Bullish"
+        },
+        {
+            "title": "Why Coursera Shares Are Trading Higher By Over 7%; Here Are 20 Stocks Moving Premarket - Azitra  ( AMEX:AZTR ) , AGM Gr Hldgs  ( NASDAQ:AGMH ) ",
+            "url": "https://www.benzinga.com/25/04/45002872/why-coursera-shares-are-trading-higher-by-over-7-here-are-20-stocks-moving-premarket",
+            "source": "Benzinga",
+            "time_published": "20250425T093843",
+            "summary": "Shares of Coursera, Inc. COUR rose sharply in today's pre-market trading after the company reported better-than-expected first-quarter financial results. Coursera reported quarterly earnings of 12 cents per share which beat the analyst consensus estimate of 8 cents per share.",
+            "sentiment_score": "0.273114",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Coursera  ( COUR )  Q1 2025 Earnings Call",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/04/24/coursera-cour-q1-2025-earnings-call/",
+            "source": "Motley Fool",
+            "time_published": "20250424T222333",
+            "summary": "Image source: The Motley Fool.Thursday, Apr 24, 2025Greg Hart: President and Chief Executive OfficerContinue reading ...",
+            "sentiment_score": "0.186148",
+            "sentiment_label": "Somewhat-Bullish"
+        },
+        {
+            "title": "Coursera  ( COUR )  Q1 Earnings and Revenues Beat Estimates",
+            "url": "https://www.zacks.com/stock/news/2455356/coursera-cour-q1-earnings-and-revenues-beat-estimates",
+            "source": "Zacks Commentary",
+            "time_published": "20250424T213506",
+            "summary": "Coursera (COUR) delivered earnings and revenue surprises of 50% and 2.58%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+            "sentiment_score": "0.035869",
+            "sentiment_label": "Neutral"
+        },
+        {
+            "title": "This Stock Is No Child's Play With A Bet On Silver Economy",
+            "url": "https://www.benzinga.com/news/earnings/25/04/44761048/this-stock-is-no-childs-play-with-a-bet-on-silver-economy",
+            "source": "Benzinga",
+            "time_published": "20250411T133049",
+            "summary": "The adult education company is adding products for seniors to adapt to changing times, and is now also testing out the youth market with a new toy investment QuantaSing bought a controlling stake in fantasy toy maker Letsvan, moving it into the fast-growing sector for experiential toys for all ages",
+            "sentiment_score": "0.074684",
+            "sentiment_label": "Neutral"
+        }
+    ],
+    "researched_at": {
+        "$date": {
+            "$numberLong": "1760643164164"
+        }
+    },
+    "total_articles": {
+        "$numberInt": "70"
+    },
+    "analyzed_at": {
+        "$date": {
+            "$numberLong": "1760643171026"
+        }
+    },
+    "priority": "High Priority - Hot Lead",
+    "prospect_score": {
+        "$numberInt": "100"
+    },
+    "recommendation": "Immediate outreach recommended. Strong signals detected: funding (9), partnership (5), acquisition (2). **PITCH DUBLABS.AI FOR GLOBAL CONTENT NEEDS NOW.**",
+    "signal_summary": {
+        "expansion_global": {
+            "$numberInt": "0"
+        },
+        "funding": {
+            "$numberInt": "9"
+        },
+        "leadership_change_content": {
+            "$numberInt": "0"
+        },
+        "product_launch_content": {
+            "$numberInt": "0"
+        },
+        "hiring_international": {
+            "$numberInt": "0"
+        },
+        "acquisition": {
+            "$numberInt": "2"
+        },
+        "partnership": {
+            "$numberInt": "5"
+        },
+        "award": {
+            "$numberInt": "0"
+        }
+    },
+    "signals": [
+        {
+            "type": "partnership",
+            "title": "Three Questions for Coursera’s New CEO, Greg Hart",
+            "source": "Inside Higher Ed",
+            "date": "May 20, 2025",
+            "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2025/05/20/three-questions-courseras-new-ceo-greg-hart",
+            "weight": {
+                "$numberInt": "5"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Institutional investors control 70% of Coursera, Inc. (NYSE:COUR) and were rewarded last week after stock increased 3.8%",
+            "source": "Yahoo Finance",
+            "date": "May 29, 2025",
+            "url": "https://finance.yahoo.com/news/institutional-investors-control-70-coursera-114522463.html",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Can Stride Sustain Double-Digit EPS Growth as Investments Rise?",
+            "source": "Zacks Commentary",
+            "date": "20251010T121400",
+            "url": "https://www.zacks.com/stock/news/2766137/can-stride-sustain-double-digit-eps-growth-as-investments-rise",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "partnership",
+            "title": "Scrum Alliance and Coursera Bring Agile Skills to Learners Worldwide",
+            "source": "Benzinga",
+            "date": "20251006T161923",
+            "url": "https://www.benzinga.com/pressreleases/25/10/g48049477/scrum-alliance-and-coursera-bring-agile-skills-to-learners-worldwide",
+            "weight": {
+                "$numberInt": "5"
+            }
+        },
+        {
+            "type": "partnership",
+            "title": "Contract Shifts to District Wins: Is Stride's Franchise Strengthening?",
+            "source": "Zacks Commentary",
+            "date": "20251001T133000",
+            "url": "https://www.zacks.com/stock/news/2760142/contract-shifts-to-district-wins-is-strides-franchise-strengthening",
+            "weight": {
+                "$numberInt": "5"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Stride Bets on Tutoring and AI: Will New Investments Pay Off?",
+            "source": "Zacks Commentary",
+            "date": "20250919T135300",
+            "url": "https://www.zacks.com/stock/news/2754104/stride-bets-on-tutoring-and-ai-will-new-investments-pay-off",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Do Options Traders Know Something About Coursera Stock We Don't?",
+            "source": "Zacks Commentary",
+            "date": "20250731T132000",
+            "url": "https://www.zacks.com/stock/news/2644171/do-options-traders-know-something-about-coursera-stock-we-dont",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Coursera, Inc.  ( COUR )  Hits Fresh High: Is There Still Room to Run?",
+            "source": "Zacks Commentary",
+            "date": "20250728T131501",
+            "url": "https://www.zacks.com/stock/news/2628551/coursera-inc-cour-hits-fresh-high-is-there-still-room-to-run",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "partnership",
+            "title": "Coursera Q2 Revenue Jumps 10 Percent",
+            "source": "Motley Fool",
+            "date": "20250725T130354",
+            "url": "https://www.fool.com/data-news/2025/07/25/coursera-q2-revenue-jumps-10-percent/",
+            "weight": {
+                "$numberInt": "5"
+            }
+        },
+        {
+            "type": "partnership",
+            "title": "Over 2.7 Million People Benefited by Education Startups Backed by Tec: IFE",
+            "source": "Benzinga",
+            "date": "20250708T150931",
+            "url": "https://www.benzinga.com/pressreleases/25/07/g46299381/over-2-7-million-people-benefited-by-education-startups-backed-by-tec-ife",
+            "weight": {
+                "$numberInt": "5"
+            }
+        },
+        {
+            "type": "acquisition",
+            "title": "Why Genius Group Is Aggressively Stockpiling Bitcoin - Genius Group  ( AMEX:GNS ) ",
+            "source": "Benzinga",
+            "date": "20250702T141137",
+            "url": "https://www.benzinga.com/crypto/25/07/46221685/why-genius-group-is-aggressively-stockpiling-bitcoin",
+            "weight": {
+                "$numberInt": "10"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "44 Public Companies Make Time's Most Influential List: Coinbase, UFC, Nintendo, Netflix And More Stocks Investors Can Buy - Abbott Laboratories  ( NYSE:ABT ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "source": "Benzinga",
+            "date": "20250627T153958",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/06/46144750/44-public-companies-make-times-most-influential-list-coinbase-ufc-nintendo-netflix-and-m",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "Coursera AI Strategy Wins Points But Market Jitters Linger - Coursera  ( NYSE:COUR ) ",
+            "source": "Benzinga",
+            "date": "20250425T185832",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/04/45019527/coursera-ai-driven-strategy-wins-analyst-nod-eyes-on-tools-like-coach-course-builder",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "VeriSign Posts Better-Than-Expected Results, Joins Charter Communications, Sensient Technologies, Comfort Systems And Other Big Stocks Moving Higher On Friday - BigBear.ai Hldgs  ( NYSE:BBAI ) , Cantor Equity Partners  ( NASDAQ:CEP ) ",
+            "source": "Benzinga",
+            "date": "20250425T145447",
+            "url": "https://www.benzinga.com/25/04/45011341/verisign-posts-better-than-expected-results-joins-charter-communications-sensient-technologies-comfort-systems-an",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "funding",
+            "title": "This Stock Is No Child's Play With A Bet On Silver Economy",
+            "source": "Benzinga",
+            "date": "20250411T133049",
+            "url": "https://www.benzinga.com/news/earnings/25/04/44761048/this-stock-is-no-childs-play-with-a-bet-on-silver-economy",
+            "weight": {
+                "$numberInt": "30"
+            }
+        },
+        {
+            "type": "acquisition",
+            "title": "This Stock Is No Child's Play With A Bet On Silver Economy",
+            "source": "Benzinga",
+            "date": "20250411T133049",
+            "url": "https://www.benzinga.com/news/earnings/25/04/44761048/this-stock-is-no-childs-play-with-a-bet-on-silver-economy",
+            "weight": {
+                "$numberInt": "10"
+            }
+        }
+    ],
+    "composed_at": {
+        "$date": {
+            "$numberLong": "1760644162881"
+        }
+    },
+    "outreach_sequence": {
+        "email_1_initial_outreach": {
+            "subject": "Idea for fast content localization at Coursera",
+            "body": "Hi Wilson Tan,\n\nHi Wilson Tan,\n\nI noticed Coursera is a leader in the E-Learning space, which requires constantly updated, localized video content. Dublabs.ai specifically helps companies like yours **generate multi-language audio and video for their e-learning courses 10x faster than traditional dubbing.**.\n\nDublabs.ai is an AI-powered dubbing solution that helps companies like yours **generate multi-language audio and video for their e-learning courses 10x faster than traditional dubbing.** by automatically syncing translated audio to your original video.\n\nWould you be open to a quick 15-minute demo to see the results (we can use one of your videos)?\n\nBest,\n[Your Name]",
+            "call_to_action": "Are you open to a quick 15-minute conversation on Thursday or Friday?"
+        },
+        "email_2_follow_up": {
+            "subject": "Re: Idea for fast content localization at Coursera",
+            "body": "Hi Wilson Tan,\n\nBumping this up. The challenge of scaling content for Coursera's partnership is real. \n\nDublabs.ai could solve your multi-language video problem in the next week. If that's not a priority right now, just let me know, and I'll close the loop.\n\nBest,\n[Your Name]",
+            "call_to_action": "A quick reply is fine!"
+        },
+        "email_3_value_add": {
+            "subject": "A case study on multi-language course launches for EdTech",
+            "body": "Hi Wilson Tan,\n\nIf you're currently in the planning phase for Coursera's international strategy, you might find this helpful:\n\nWe put together a short case study on how a large EdTech firm reduced their time-to-market for a new course from 9 weeks to 1 week using AI dubbing. [Insert link to relevant case study here].\n\nLet me know if this sparks any ideas.\n\nBest,\n[Your Name]",
+            "call_to_action": "N/A"
+        },
+        "email_4_breakup": {
+            "subject": "Closing the loop with Coursera on localization",
+            "body": "Hi Wilson Tan,\n\nThis will be my final message. I genuinely believe that as your e-learning platform continues to grow, traditional dubbing costs will slow your ability to enter new markets.\n\nWhen that need becomes critical, remember Dublabs.ai—we're here to solve the multi-language video bottleneck instantly. Wishing you success,\n\n[Your Name]",
+            "call_to_action": "N/A"
+        }
+    }
+}

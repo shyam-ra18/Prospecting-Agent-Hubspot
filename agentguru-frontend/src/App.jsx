@@ -5,7 +5,6 @@ import DetailPage from './pages/DetailPage';
 
 const App = () => {
   return (
-    // Use BrowserRouter as Router
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />

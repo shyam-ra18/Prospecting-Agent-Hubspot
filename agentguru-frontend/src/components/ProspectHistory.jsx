@@ -6,6 +6,15 @@ const ProspectHistory = ({ newResearchData }) => {
     const [history, setHistory] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
 
+    // Helper to get the color for the score pill
+    const getScoreColor = (score) => {
+        if (score >= 80) return 'bg-red-500';
+        if (score >= 55) return 'bg-agent-yellow';
+        if (score >= 30) return 'bg-agent-green';
+        return 'bg-gray-400';
+    };
+
+
     /**
      * Fetches the list of all companies from the new /companies endpoint.
      * This replaces the inefficient mock domain iteration.
@@ -20,7 +29,6 @@ const ProspectHistory = ({ newResearchData }) => {
                 let fetchedData = await response.json();
 
                 // 2. Handle the case where the new research needs to be prepended
-                // The new endpoint should return the list already sorted by 'researched_at'
                 if (newResearchData) {
                     const newId = newResearchData.research_id;
 
@@ -70,8 +78,8 @@ const ProspectHistory = ({ newResearchData }) => {
                     <thead className="bg-gray-50">
                         <tr>
                             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Company</th>
-                            <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Contacts</th>
-                            <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Articles</th>
+                            <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Industry</th>
+                            <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Score</th>
                             <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Date</th>
                             <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
                         </tr>
@@ -81,8 +89,12 @@ const ProspectHistory = ({ newResearchData }) => {
                             // Use research_id for the key as it is now guaranteed to be a unique string
                             <tr key={item.research_id || item.domain} className="hover:bg-gray-50">
                                 <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">{item.company_name} ({item.domain})</td>
-                                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{item.contacts?.length || 'N/A'}</td>
-                                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{item.total_articles || 'N/A'}</td>
+                                <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{item.industry || 'N/A'}</td>
+                                <td className="px-6 py-4 whitespace-nowrap">
+                                    <span className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full text-white ${getScoreColor(item.prospect_score)}`}>
+                                        {item.prospect_score || 'N/A'}
+                                    </span>
+                                </td>
                                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{new Date(item.researched_at).toLocaleDateString()}</td>
                                 <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                     <button
@@ -90,7 +102,7 @@ const ProspectHistory = ({ newResearchData }) => {
                                         onClick={() => navigate(`/detail/${item.research_id}`)}
                                         className="text-agent-green hover:text-emerald-600 font-semibold"
                                     >
-                                        View Signals & Score →
+                                        View Detail →
                                     </button>
                                 </td>
                             </tr>
