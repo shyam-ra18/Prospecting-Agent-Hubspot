@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { API_BASE_URL } from '../const';
 
 const ResearchForm = ({ onResearchStart }) => {
     const [domain, setDomain] = useState('');
@@ -18,7 +19,7 @@ const ResearchForm = ({ onResearchStart }) => {
         setError('');
 
         const endpoint = useVerified ? 'research-verified' : 'research';
-        const apiUrl = `http://127.0.0.1:8000/${endpoint}?domain=${domain}${ticker ? `&ticker=${ticker}` : ''}`;
+        const apiUrl = `${API_BASE_URL}/${endpoint}?domain=${domain}${ticker ? `&ticker=${ticker}` : ''}`;
 
         try {
             const response = await fetch(apiUrl, { method: 'POST' });
@@ -95,8 +96,8 @@ const ResearchForm = ({ onResearchStart }) => {
                     type="submit"
                     disabled={isLoading}
                     className={`w-full py-3 px-4 rounded-md text-white font-medium focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 ${isLoading
-                            ? 'bg-gray-400 cursor-not-allowed'
-                            : 'bg-blue-600 hover:bg-blue-700'
+                        ? 'bg-gray-400 cursor-not-allowed'
+                        : 'bg-blue-600 hover:bg-blue-700'
                         }`}
                 >
                     {isLoading ? (

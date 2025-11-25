@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { API_BASE_URL } from '../const';
 
 const ProspectHistory = ({ newResearchData }) => {
     const navigate = useNavigate();
@@ -23,7 +24,7 @@ const ProspectHistory = ({ newResearchData }) => {
         setIsLoading(true);
         try {
             // 1. Fetch the list of companies from the new dedicated endpoint
-            const response = await fetch(`http://127.0.0.1:8000/companies?limit=20`); // Request the top 20 recent
+            const response = await fetch(`${API_BASE_URL}/companies?limit=20`); // Request the top 20 recent
 
             if (response.ok) {
                 let fetchedData = await response.json();
@@ -36,7 +37,7 @@ const ProspectHistory = ({ newResearchData }) => {
                     if (!fetchedData.find(d => d.research_id === newId)) {
 
                         // We need the full details, which are available via /company/{domain}
-                        const fullRecordResponse = await fetch(`http://127.0.0.1:8000/company/${newResearchData.domain}`);
+                        const fullRecordResponse = await fetch(`${API_BASE_URL}/company/${newResearchData.domain}`);
 
                         if (fullRecordResponse.ok) {
                             let newRecord = await fullRecordResponse.json();

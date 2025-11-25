@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { API_BASE_URL } from '../const';
 
 const SystemMetrics = () => {
     const [systemMetrics, setSystemMetrics] = useState(null);
@@ -8,7 +9,7 @@ const SystemMetrics = () => {
     useEffect(() => {
         const fetchSystemMetrics = async () => {
             try {
-                const response = await fetch('http://127.0.0.1:8000/metrics/evaluate/system');
+                const response = await fetch(`${API_BASE_URL}/metrics/evaluate/system`);
                 const data = await response.json();
 
                 if (response.ok) {

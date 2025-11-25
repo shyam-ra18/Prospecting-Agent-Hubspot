@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { API_BASE_URL } from '../const';
 
 const OutreachComposerCard = ({ researchId }) => {
     const [outreachData, setOutreachData] = useState(null);
@@ -11,7 +12,7 @@ const OutreachComposerCard = ({ researchId }) => {
             setIsLoading(true);
             setError('');
             try {
-                const url = `http://127.0.0.1:8000/compose/${researchId}`;
+                const url = `${API_BASE_URL}/compose/${researchId}`;
                 const response = await fetch(url);
                 const json = await response.json();
 
@@ -54,8 +55,8 @@ const OutreachComposerCard = ({ researchId }) => {
                         key={key}
                         onClick={() => setActiveTab(key)}
                         className={`py-2 px-4 text-sm font-medium transition-colors duration-150 ${activeTab === key
-                                ? 'border-b-2 border-agent-green text-agent-green'
-                                : 'text-gray-500 hover:text-gray-700'
+                            ? 'border-b-2 border-agent-green text-agent-green'
+                            : 'text-gray-500 hover:text-gray-700'
                             }`}
                     >
                         {formatTabName(key)}
